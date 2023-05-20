@@ -195,7 +195,7 @@ tools:context="com.example.android.intents.SecondActivity">
 ## Explicit intent
 ![234869336-a200e484-3bec-475b-a67d-c4f31412466d](https://github.com/Lutheeshgoparapu/Ex-No_3_Intent/assets/94154531/1cac0d0a-a333-4df1-b710-0985f0305791)
 ## implicit intent
-![Uploading 8uuu.png…]()
+![r3](https://github.com/Lutheeshgoparapu/Ex-No_3_Intent/assets/94154531/46415170-283b-4e14-a322-3dbf9fcd31f0)
 
 
 ## Result:
